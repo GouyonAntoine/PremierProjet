@@ -1,0 +1,12 @@
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\bin\Debug\net5.0\MesClasses.deps.json
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\bin\Debug\net5.0\MesClasses.dll
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\bin\Debug\net5.0\ref\MesClasses.dll
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\bin\Debug\net5.0\MesClasses.pdb
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\obj\Debug\net5.0\MesClasses.csprojAssemblyReference.cache
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\obj\Debug\net5.0\MesClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\obj\Debug\net5.0\MesClasses.AssemblyInfoInputs.cache
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\obj\Debug\net5.0\MesClasses.AssemblyInfo.cs
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\obj\Debug\net5.0\MesClasses.csproj.CoreCompileInputs.cache
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\obj\Debug\net5.0\MesClasses.dll
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\obj\Debug\net5.0\ref\MesClasses.dll
+C:\Users\Formation\Desktop\ExoBasique\MesClasses\obj\Debug\net5.0\MesClasses.pdb
